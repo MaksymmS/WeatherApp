@@ -12,7 +12,7 @@
     <a href='https://customtkinter.tomschimansky.com/'>CustomTkinter</a>.
 </p>
 
-![screen.PNG](screen.PNG)
+![screen.PNG](static/icon/screen.PNG)
 
 <h2>Зміст:</h2>
 <ol>
@@ -72,11 +72,11 @@
 
 <h3>Натисніть на зелену кнопку "Code": </h3>
 
-![greenButton.jpg](button.jpg)
+![greenButton.jpg](static/icon/button.jpg)
 
 <h3>У відкрившомуся вікні скопіюйте https адресу: </h3>
 
-![https_link](copy.jpg)
+![https_link](static/icon/copy.jpg)
 
 <p style='text-align:  justify;'>
     <span style='margin-left: 50px;'>Далі</span> 
@@ -88,7 +88,7 @@
 2. Завантажити за допомогою zip-архіву
 <h3>Натисніть на кнопку "Download ZIP", завантажте його та розпакуйте його:</h3>
 
-![zip.jpg](zip.jpg)
+![zip.jpg](static/icon/zip.jpg)
 
 ___
 
@@ -97,10 +97,10 @@ ___
 
  - <h5>У терміналі створить віртуальне оточення як вказано на зображенні:</h5>
 
-    ![virtualEnviroment.PNG](virtual.PNG)
+    ![virtualEnviroment.PNG](static/icon/virtual.PNG)
  - <h5>Активуйте його як показано на прикладі:</h5>
 
-    ![activate.PNG](activate.PNG)
+    ![activate.PNG](static/icon/activate.PNG)
 
 <h1 id='mac-os'>MacOS/Linux</h1>
 
@@ -110,7 +110,7 @@ ___
 
  - <h5>Активуйте віртуальне оточення:</h5>
 
-    ![activate_MacOs/Linux.PNG](activateMAC.PNG)
+    ![activate_MacOs/Linux.PNG](static/icon/activateMAC.PNG)
 
 ___
 
@@ -120,14 +120,14 @@ ___
 
  - <h5>Завантажте усі модулі з requirements.txt, за допомогою команди pip install -r</h5>
 
-    ![requirements.PNG](requirements.PNG)
+    ![requirements.PNG](static/icon/requirements.PNG)
 
 
 <h1 id='pip-install'>Завантаження окремих модулів:</h1>
 
  - <h5>У терміналі пишіть до кожного модуля pip install якого потрибує система:</h5>
 
-    ![module.PNG](module.PNG)
+    ![module.PNG](static/icon/module.PNG)
 ___
 
 <h1 id='start-project'>Старт проєкту:</h1>
