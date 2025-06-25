@@ -106,7 +106,7 @@ ___
 
  - <h5>У терміналі створіть віртуальне оточення за прикладом:</h5>
 
-    ![virtualEnviroment_MacOS/Linux.PNG](virtualMAC.PNG)
+    ![virtualEnviroment_MacOS/Linux.PNG](static/icon/virtualMAC.PNG)
 
  - <h5>Активуйте віртуальне оточення:</h5>
 
