@@ -12,6 +12,64 @@
     <a href='https://customtkinter.tomschimansky.com/'>CustomTkinter</a>.
 </p>
 
+```mermaid
+    graph TD;
+    WEATHERAPP-->images/;
+    WEATHERAPP-->modules/;
+    WEATHERAPP-->static/;
+    WEATHERAPP-->.gitignore;
+    WEATHERAPP-->main.py;
+    WEATHERAPP-->README.md;
+    WEATHERAPP-->requirements.txt;
+    images/-->01d.png;
+    images/-->01n.png;
+    images/-->02d.png;
+    images/-->02n.png;
+    images/-->03d.png;
+    images/-->03n.png;
+    images/-->04d.png;
+    images/-->04n.png;
+    images/-->9d.png;
+    images/-->9n.png;
+    images/-->10d.png;
+    images/-->10n.png;
+    images/-->11d.png;
+    images/-->11n.png;
+    images/-->13d.png;
+    images/-->13n.png;
+    images/-->arrow_down.png;
+    images/-->arrow_up.png;
+    images/-->loope.png;
+    modules/-->gui/;
+    modules/-->__init__.py;
+    modules/-->read_json.py;
+    modules/-->weather_data.py;
+    modules/-->write_json.py;
+    gui/-->__init__.py;
+    gui/-->city_weather.py;
+    gui/-->forecast_component.py;
+    gui/-->forecast_frame.py;
+    gui/-->image.py;
+    gui/-->main_info.py;
+    gui/-->main_screen.py;
+    gui/-->side_bar.py;
+    static/-->icon/;
+    static/-->config.json;
+    static/-->forecast.json;
+    static/-->weather_data.json;
+    icon/-->activate.png;
+    icon/-->activateMAC.png;
+    icon/-->button.jpg;
+    icon/-->copy.jpg;
+    icon/-->module.png;
+    icon/-->requirements.png;
+    icon/-->screen.png;
+    icon/-->virtual.png;
+    icon/-->virtualMAC.png;
+    icon/-->zip.jpg;
+            
+```
+
 ![screen.PNG](static/icon/screen.PNG)
 
 <h2>Зміст:</h2>
