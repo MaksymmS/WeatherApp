@@ -141,6 +141,10 @@ ___
     перейдіть до
     <a href='https://code.visualstudio.com/'>Visual Studio Code</a>, 
     та в терміналі <a href='https://www.atlassian.com/git/tutorials/git-bash'>GitBash</a> за допомогою команди git clone вставте посилання на <a href='https://github.com/MaksymmS/WeatherApp'>GitHub репозиторій</a>
+<pre><code>git clone https://github.com/MaksymmS/WeatherApp</pre></code>
+
+<p>І після цього перейдіть до директорії проєкта:</p>
+<pre><code>cd WeatherApp</pre></code>
 </p>
 
 2. Завантажити за допомогою zip-архіву
