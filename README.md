@@ -12,6 +12,7 @@
     <a href='https://customtkinter.tomschimansky.com/'>CustomTkinter</a>.
 </p>
 
+
 ```mermaid
     graph TD;
     WEATHERAPP-->images/;
@@ -66,13 +67,12 @@
     icon/-->screen.png;
     icon/-->virtual.png;
     icon/-->virtualMAC.png;
-    icon/-->zip.jpg;
-            
+    icon/-->zip.jpg;         
 ```
 
 ![screen.PNG](static/icon/screen.PNG)
 
-<h2>Зміст:</h2>
+<h2 id='content'>Зміст:</h2>
 <ol>
     <li>
         <a href='#all-modules'>Модулі проєкту</a>.
@@ -123,7 +123,7 @@
 - [colorama](https://pypi.org/project/colorama/)
 - [datetime](https://docs.python.org/3/library/datetime.html)
 
----
+___
 <h3 id='download-project'>Розгортання проєкту:</h3>
 
 1. Склонувати з <a href='https://github.com/MaksymmS/WeatherApp'>GitHub</a> репозиторію 
@@ -148,27 +148,35 @@
 
 ![zip.jpg](static/icon/zip.jpg)
 
+<b><a href='#content'>До змісту⬆️</a></b>
+
 ___
 
 <h3 id='create-venv'>Створення віртуального оточення:</h3>
 <h1 id='windows'>Windows</h1>
 
- - <h5>У терміналі створить віртуальне оточення як вказано на зображенні:</h5>
+ - <h5>У терміналі створить віртуальне оточення за прикладом:</h5>
+    
+    <pre><code>python -m venv venv</pre></code>
 
-    ![virtualEnviroment.PNG](static/icon/virtual.PNG)
  - <h5>Активуйте його як показано на прикладі:</h5>
 
-    ![activate.PNG](static/icon/activate.PNG)
+    <pre><code>.\venv\Scripts\Activate.ps1</pre></code>
+
 
 <h1 id='mac-os'>MacOS/Linux</h1>
 
  - <h5>У терміналі створіть віртуальне оточення за прикладом:</h5>
 
-    ![virtualEnviroment_MacOS/Linux.PNG](static/icon/virtualMAC.PNG)
+    <pre><code>python3 -m venv venv</pre></code>
+
 
  - <h5>Активуйте віртуальне оточення:</h5>
 
-    ![activate_MacOs/Linux.PNG](static/icon/activateMAC.PNG)
+    <pre><code>source venv/bin/activate</pre></code>
+
+
+<b><a href='#content'>До змісту⬆️</a></b>
 
 ___
 
@@ -178,20 +186,25 @@ ___
 
  - <h5>Завантажте усі модулі з requirements.txt, за допомогою команди pip install -r</h5>
 
-    ![requirements.PNG](static/icon/requirements.PNG)
+    <pre><code>pip install -r requirements.txt</pre></code>
+
 
 
 <h1 id='pip-install'>Завантаження окремих модулів:</h1>
 
  - <h5>У терміналі пишіть до кожного модуля pip install якого потрибує система:</h5>
 
-    ![module.PNG](static/icon/module.PNG)
+    <pre><code>pip install customtkinter</pre></code>
+
+
+<b><a href='#content'>До змісту⬆️</a></b>
 ___
 
 <h1 id='start-project'>Старт проєкту:</h1>
 
- - <h5>У терміналі напишіть команду python main.py для старту проєкта</h5>
+ - <h5>Щоб запустити проєкст у терміналі напишіть команду: <pre><code>python main.py</pre></code></h5>
 
+<b><a href='#content'>До змісту⬆️</a></b>
 ___
 
 <h1 id='base-mechanics'>Основні механіки проєкту:</h1>
@@ -200,13 +213,18 @@ ___
 GUI реальзовано за допомогою <a href='https://customtkinter.tomschimansky.com/'>CustomTkinter</a>.
 </p>
 
+<b><a href='#content'>До змісту⬆️</a></b>
 ___
 
 <h1 id='result'>Висновок:</h1>
 <span style='margin-left: 30px;'>За допомогою</span> 
-цього проєкта я ознайомився з понятєм як створит власний Descktop застосунок. А саме:<b>
- 
+цього проєкта я ознайомився з понятєм як створит власний Descktop застосунок. 
+<p>А саме:</p><b>
+
  - як працювати с requests;
  - як отримувати данні з від віддаленого серверу, за допомогою <a href='https://aws.amazon.com/what-is/api/#:~:text=on%20your%20phone.-,What%20does%20API%20stand%20for%3F,of%20service%20between%20two%20applications.'>API</a> та зберігати  у <a href='https://www.json.org/json-en.html'>JSON</a> форматі;
  - як створювати додатки через <a href='https://customtkinter.tomschimansky.com/'>CustomTkinter</a>;
  - як розробити свої власні графічні інтерфейси, а також дизайни.
+
+<a href='#content'>До змісту⬆️</a></b>
+
