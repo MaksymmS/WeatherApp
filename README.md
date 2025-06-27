@@ -13,7 +13,7 @@
 </p>
 
 ```mermaid
-    graph TD;
+graph TD;
     WEATHERAPP-->images/;
     WEATHERAPP-->modules/;
     WEATHERAPP-->static/;
