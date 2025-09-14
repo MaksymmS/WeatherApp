@@ -70,7 +70,7 @@
     icon/-->zip.jpg;         
 ```
 
-![screen.PNG](static/icon/screen.PNG)
+![screen.jpg](static/icon/screen.jpg)
 
 <h2 id='content'>Зміст:</h2>
 <ol>
